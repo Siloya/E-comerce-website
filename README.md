@@ -2,11 +2,12 @@
  e-commerce website :  this website operates a marketplace to make, sell, and buy goods online in Lebanon. the website was created using PHP, MySQL, HTML, CSS, Bootstrap, JS, JQuery, JSON, AJAX, XML languages.
 
 ## Features
-- all categories section on the home page
-- search functionality
+
+- show all categories section on the home page
 - client/vendor registration (login or sign in )
-- admin registration just login
 - show profile information , with ability to edit them
+- admin registration just login
+- search functionality in all pages
 
 us a client you can :
 - show Product details page with image, description, price, and (quantite in the stock /out stock/open request) 
@@ -23,7 +24,7 @@ us a vendor you can :
   
 us a admin you can:
 - manage all
-- manage clientand vendor(suspended/restore/delet)
+- manage all clients and vendors(suspended/restore/delet)
 - manage produts (show , add, delet , suspended)
 - manage categories (show , add, delet , suspended)
 
