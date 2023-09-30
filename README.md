@@ -7,17 +7,20 @@
 - client/vendor registration (login or sign in )
 - admin registration just login
 - show profile information , with ability to edit them
+
  us a client you can :
 - show Product details page with image, description, price, and (quantite in the stock /out stock/open request) 
 - add products to the cart
 - manage the cart
 - show your orders and rate the vendor service
 - show vendor informations  and chat with him
+
  us a vendor you can :
 - show and manage products ( add , delet ..)
 - show and manage orders ...
 - check clients messages and reply to it
 - chow clients rate
+  
   us a admin you can:
 - manage all
 - manage clientand vendor(suspended/restore/delet)
