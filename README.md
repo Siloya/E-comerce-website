@@ -40,7 +40,7 @@ us a admin you can:
 ![project-photo](./ReadMeScreen/Screenshot%20(632).png)
 ![project-photo](./ReadMeScreen/Screenshot%20(647).png)
 ![project-photo](./ReadMeScreen/Screenshot%20(649).png)
-![project-photo](./ReadMeScreen/Screenshot%20(663).png)
+![project-photo](./ReadMeScreen/Screenshot%20(651).png)
 ![project-photo](./ReadMeScreen/Screenshot%20(653).png)
 ![project-photo](./ReadMeScreen/Screenshot%20(664).png)
 ![project-photo](./ReadMeScreen/Screenshot%20(665).png)
