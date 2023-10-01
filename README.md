@@ -1,8 +1,12 @@
 # E-comerce-website
  e-commerce website :  this website operates a marketplace to make, sell, and buy goods online in Lebanon. the website was created using PHP, MySQL, HTML, CSS, Bootstrap, JS, JQuery, JSON, AJAX, XML languages.
 
-## Features
+## Usage && Features
+On this site we have 3 types of members: Customer, vendors, Admin,
+Customers can buy what vendors and administrator are selling,
+The admin can manage all (vendors, customers, products, categories) on this site,  
 
+what we can do on this site:
 - show all categories section on the home page
 - client/vendor registration (login or sign in )
 - show profile information , with ability to edit them
