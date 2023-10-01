@@ -1,0 +1,21 @@
+.search-bar {
+  display: none;
+}
+
+body {
+  padding-top: 20%;
+}
+
+@media only screen and (min-width: 768px) {
+  .search-bar {
+      background-color: #343a40;
+      color: white;
+      display: block;
+  }
+  .mobile-search-bar {
+    display: none;
+  }
+  body {
+    padding-top: 8%;
+  }
+}
