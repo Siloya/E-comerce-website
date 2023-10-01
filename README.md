@@ -30,13 +30,13 @@ us a admin you can:
 
 ## Screenshots
 
-![Home page](./README_images/Screenshot%202023-04-07%20164315.png)
-![Recent Product](./README_images/Screenshot%202023-04-07%20164412.png)
-![Product Details](./README_images/Screenshot%202023-04-07%20171035.png)
-![Cart](./README_images/Screenshot%202023-04-07%20164602.png)
-![Login page](./README_images/Screenshot%202023-04-07%20170644.png)
-![Admin Panel stat](./README_images/Screenshot%202023-04-07%20164825.png)
-![Admin CRUD operation](./README_images/Screenshot%202023-04-07%20164839.png)
+![project-photo](./ReadMeScreen/Screenshot%202023-04-07%20164315.png)
+![project-photo](./ReadMeScreen/Screenshot%202023-04-07%20164412.png)
+![project-photo](./ReadMeScreen/Screenshot%202023-04-07%20171035.png)
+![project-photo](./ReadMeScreen/Screenshot%202023-04-07%20164602.png)
+![project-photo](./ReadMeScreen/Screenshot%202023-04-07%20170644.png)
+![project-photo](./ReadMeScreen/Screenshot%202023-04-07%20164825.png)
+![project-photo](./ReadMeScreen/Screenshot%202023-04-07%20164839.png)
 
 ## Technologies Used
 - PHP
