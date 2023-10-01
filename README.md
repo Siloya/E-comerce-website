@@ -13,20 +13,20 @@ what we can do on this site:
 - admin registration just login
 - search functionality in all pages
 
-us a client you can :
+ AS a client you can :
 - show Product details page with image, description, price, and (quantite in the stock /out stock/open request) 
 - add products to the cart
 - manage the cart
 - show your orders and rate the vendor service
 - show vendor informations  and chat with him
 
-us a vendor you can :
+As a vendor you can :
 - show and manage products ( add , delet ..)
 - show and manage orders ...
 - check clients messages and reply to it
 - chow clients rate
   
-us a admin you can:
+As a admin you can:
 - manage all
 - manage all clients and vendors(suspended/restore/delet)
 - manage produts (show , add, delet , suspended)
